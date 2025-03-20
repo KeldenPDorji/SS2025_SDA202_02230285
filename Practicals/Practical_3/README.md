@@ -26,7 +26,7 @@ The user management context handles the core user identity lifecycle from regist
 **Primary Aggregate:** Song Aggregate  
 **Key Process Flows:**
 - Song Search & Playback: Users search, play, pause, resume and skip songs
-- Song Interaction: Users like, dislike, and skip songs
+- Song Interaction: Users like and skip songs
 - Queue Management: Users add and remove songs from playback queue
 - Playback Control: Volume adjustment and lyrics display
 
